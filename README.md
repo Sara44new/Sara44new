@@ -147,11 +147,4 @@ Me chamo Sara Silva, tenho 43 anos e sou natural do Bahia. Concluí o ensino mé
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="0" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Sara44new&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+
