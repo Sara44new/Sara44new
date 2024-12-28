@@ -2,7 +2,7 @@
 
 **`Estudante de TI`**
 
-Me chamo Sara Silva, tenho 43 anos e sou natural do Bahia. Concluí o ensino médio no ICEIA, com o curso técnico em magistério a. Atualmente, estou cursandosegurança da informação no Gran faculdade. Sou apaixonada por tecnologia.
+Me chamo Sara Silva, tenho 43 anos e sou natural do Bahia. Concluí o ensino médio no ICEIA, com o curso técnico em magistério a. Atualmente, estou cursandosegurança da informação no Granfaculdade. Sou apaixonada por tecnologia.
 
 <p align="left">
     
