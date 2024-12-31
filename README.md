@@ -4,26 +4,7 @@
 
 Me chamo Sara Silva, tenho 43 anos e sou natural do Bahia. Concluí o ensino médio no ICEIA, com o curso técnico em magistério. Atualmente, estou cursandosegurança da informação no Granfaculdade. Sou apaixonada por tecnologia.
 
-<p align="left">
-    
-       
-        />
-    </a> 
-    <a href="https://github.com/Sara44new?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Sara44new?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Sara44new?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Sara44new?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+
 
 ---
 
