@@ -1,29 +1,12 @@
-# 👩🏻‍💻 Sara44new
+# 👩🏻‍💻 Sara Alves Silva
 
-**`Estudante de TI`**
+**`Estudante Segurança da Informação`**
 
-Me chamo Sara Silva, tenho 43 anos e sou natural do Bahia. Concluí o ensino médio no ICEIA em Salvador/Ba, com o curso técnico em magistério. Atualmente, estou cursando segurança da informação no Granfaculdade. Sou apaixonada por tecnologia.
+Me chamo Sara Alves Silva, tenho 44 anos e sou natural de Salvador/ Bahia. Concluí o ensino médio no Instituto Educacional Isaia Alves, com o curso técnico em Magisterio. Atualmente, estou cursando Segurança da informação  na Gran. Sou apaixonada por tecnologia.
 
 <p align="left">
     
-       
-        />
-    </a> 
-    <a href="https://github.com/Sara44new?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Sara44new?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Sara44new?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Sara44new?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+     
 
 ---
 
@@ -146,5 +129,23 @@ Me chamo Sara Silva, tenho 43 anos e sou natural do Bahia. Concluí o ensino mé
 <br/>
 
 ### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Sara44new&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara44new&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
